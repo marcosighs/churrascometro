@@ -8,3 +8,4 @@ Os cálculos são feitos utilizando JavaScript e, após concluídos, o resultado
 
 Este projeto faz parte dos estudos em JavaScript.# churrascometro
 # churrascometro
+# churrascometro
